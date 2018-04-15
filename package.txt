@@ -1,6 +1,6 @@
 NAME=harfbuzz
 VERSION=1.7.5
-REVISION=2
+REVISION=1
 LICENSE=MIT
 SRC=https://www.freedesktop.org/software/harfbuzz/release/harfbuzz-1.7.5.tar.bz2
 SRCMD5=1466ab51fc5aaa6af4065936939cec62
