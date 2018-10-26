@@ -1,8 +1,8 @@
 NAME=harfbuzz
-VERSION=1.7.5
-REVISION=1
+VERSION=1.9.0
+REVISION=2
 LICENSE=MIT
-SRC=https://www.freedesktop.org/software/harfbuzz/release/harfbuzz-1.7.5.tar.bz2
-SRCMD5=1466ab51fc5aaa6af4065936939cec62
+SRC=https://www.freedesktop.org/software/harfbuzz/release/harfbuzz-1.9.0.tar.bz2
+SRCMD5=263a3f1cb014e3ad2e4123c238a9bfc5
 BUILDDEPS=glib2 gobject-introspection libicu freetype2
 INSTALLDEPS=glib2 gobject-introspection libicu freetype2
